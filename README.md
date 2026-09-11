@@ -198,7 +198,6 @@ body{
 <ul>
     <li><a href="#">Home</a></li>
     <li><a href="#">Games</a></li>
-    <li><a href="#">Telegram</a></li>
 </ul>
 
 <button class="mode-btn" onclick="darkMode()">
@@ -221,20 +220,6 @@ body{
 
 <a href="mening web saxifam.html" class="btn">
 Mening Sahifam
-</a>
-
-<h1>📩 Telegram</h1>
-
-<a href="https://t.me/Azizradoy1" class="btn">
-Azizga yozish
-</a>
-
-<a href="https://t.me/Nurikqwertyyy" class="btn">
-Nursultonga yozish
-</a>
-
-<a href="https://t.me/ZBB2011" class="btn">
-Bexruzga yozish
 </a>
 
 <h1>🧮 Kalkulyator</h1>
